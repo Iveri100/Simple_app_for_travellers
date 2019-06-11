@@ -1,2 +1,2 @@
 # Simple_app_for_travellers
-Simple_app_for_travellers
+ეს არის მცირე აპლიკაცია მოგზაურობის მოყვარულთათვის, ვიმედოვნებ, გამოადგებათ :)
